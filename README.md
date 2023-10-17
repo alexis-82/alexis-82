@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Alessio 
+I'm Alessio a software developer and system administrator linux
 
 ## :desktop_computer: I have worked in:
 
