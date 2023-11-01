@@ -7,7 +7,5 @@ I'm Alessio a software developer and system administrator linux
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexis-82&show_icons=true&theme=dark&layout=compact&langs_count=5&hide=glsl,lua,yacc,lex,inno_setup)](https://github.com/alexis-82)
 
-<!-- ### From October 2023, I started the Academy for Innovative Technologies to study AngularJS, Node.js, Serverless Computing, MongoDB, and Typescript. -->
-
 ## :e-mail: How to reach me:
 - Connect with me on <a href="https://www.linkedin.com/in/alessio-abrugiati/" target="_blank">Linkedin</a>
