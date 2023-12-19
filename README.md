@@ -9,6 +9,3 @@ I'm Alessio a software developer and system administrator linux
 
 ## :e-mail: How to reach me:
 - Connect with me on <a href="https://www.linkedin.com/in/alessio-abrugiati/" target="_blank">Linkedin</a>
-
-
-:man_technologist:
