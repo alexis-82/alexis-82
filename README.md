@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Alessio a Software Developer Full Stack and Cloud Specialist - System Administrator Linux
+Full Stack Developer & Linux Systems Engineer | Cloud Specialist | Automation enthusiast with 25+ years hands-on Linux experience
 
 ## :man_technologist: I have worked in:
 
