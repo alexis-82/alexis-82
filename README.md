@@ -1,11 +1,64 @@
-### Hi there 👋
-Full Stack Developer & Linux Systems Engineer | Cloud Specialist | Automation enthusiast with 25+ years hands-on Linux experience
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=150&section=header&text=alexis-82&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=%24%20neofetch&descAlignY=58&descSize=18" />
 
-## :man_technologist: I have worked in:
+```text
+                 .88888888:.           alexis@github
+                88888888.88888.        -------------
+              .8888888888888888.       OS:        GNU/Linux (25+ years, no reboot needed)
+              888888888888888888       Host:      github.com/alexis-82
+              88' _`88'_  `88888       Kernel:    Full Stack Developer
+              88 88 88 88  88888       Role:      Linux Systems Engineer
+              88_88_::_88_:88888       Cloud:     Specialist
+              88:::,::,:::::8888       Uptime:    25+ years
+              88`:::::::::'`8888       Shell:     bash (obviously)
+             .88  `::::'    8:88.      Packages:  python, node, docker, k8s, terraform
+            8888            `8:888.    Hobby:     automating anything done twice
+          .8888'             `888888.  Editor:    vim (and yes, I know how to exit)
+         .8888:..  .::.  ...:'8888888:. Memory:   caffeine / ∞
+        .8888.'     :'     `'::`88:88888
+       .8888        '         `.888:8888.
+      888:8         .           888:88888
+    .888:88        .:           888:88888:
+    8888888.       ::           88:888888
+    `.::.888.      ::          .88888888
+   .::::::.888.    ::         :::`8888'.:.
+  ::::::::::.888   '         .::::::::::::
+  ::::::::::::.8    '      .:8::::::::::::.
+ .::::::::::::::.        .:888:::::::::::::
+ :::::::::::::::88:.__..:88888:::::::::::'
+  `'.:::::::::::88888888888.88:::::::'
+        `':::_:' -- '' -'-' `':_::::'`
+```
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+## 📦 `pacman -Q --groups`
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=alexis-82&show_icons=true&theme=dark&layout=compact&langs_count=5&hide=glsl,yacc,lex,c,lua)](https://github.com/alexis-82)
+<div align="center">
 
-## :e-mail: How to reach me:
-- Connect with me on <a href="https://www.linkedin.com/in/alessio-abrugiati/" target="_blank">Linkedin</a>
+| Group | Packages |
+|:---:|:---:|
+| **ops** | <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,terraform&theme=dark" /> |
+| **backend** | <img src="https://skillicons.dev/icons?i=py,nodejs&theme=dark" /> |
+| **frontend** | <img src="https://skillicons.dev/icons?i=ts,tailwind&theme=dark" /> |
+
+</div>
+
+## 📊 `cat /proc/github`
+
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=alexis-82&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=alexis-82&layout=compact&langs_count=5&hide=glsl,yacc,lex,c,lua&hide_border=true&theme=tokyonight" alt="top langs" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alexis-82&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+## 📡 `ip addr show`
+
+```text
+eth0: linkedin  <UP,BROADCAST,RUNNING>  inet https://www.linkedin.com/in/alessio-abrugiati/
+```
+<p align="center">
+  <a href="https://www.linkedin.com/in/alessio-abrugiati/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=alexis-82&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="views" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=100&section=footer" />
