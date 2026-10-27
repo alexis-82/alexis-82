@@ -1,19 +1,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=150&section=header&text=alexis-82&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=%24%20neofetch&descAlignY=58&descSize=18" />
 
 ```text
-                 .88888888:.           alexis@github
-                88888888.88888.        -------------
-              .8888888888888888.       OS:        GNU/Linux (25+ years, no reboot needed)
-              888888888888888888       Host:      github.com/alexis-82
-              88' _`88'_  `88888       Kernel:    Full Stack Developer
-              88 88 88 88  88888       Role:      Linux Systems Engineer
-              88_88_::_88_:88888       Cloud:     Specialist
-              88:::,::,:::::8888       Uptime:    25+ years
-              88`:::::::::'`8888       Shell:     bash (obviously)
-             .88  `::::'    8:88.      Packages:  python, node, docker, k8s, terraform
-            8888            `8:888.    Hobby:     automating anything done twice
-          .8888'             `888888.  Editor:    vim (and yes, I know how to exit)
-         .8888:..  .::.  ...:'8888888:. Memory:   caffeine / ∞
+                 .88888888:.             alexis@github
+                88888888.88888.          -------------
+              .8888888888888888.         OS:        GNU/Linux (25+ years, no reboot needed)
+              888888888888888888         Host:      github.com/alexis-82
+              88' _`88'_  `88888         Kernel:    Full Stack Developer
+              88 88 88 88  88888         Role:      Linux Systems Engineer
+              88_88_::_88_:88888         Cloud:     Specialist
+              88:::,::,:::::8888         Uptime:    25+ years
+              88`:::::::::'`8888         Shell:     bash (obviously)
+             .88  `::::'    8:88.        Packages:  python, node, docker, k8s, terraform
+            8888            `8:888.      Hobby:     automating anything done twice
+          .8888'             `888888.    Editor:    vim (and yes, I know how to exit)
+         .8888:..  .::.  ...:'8888888:.  Memory:   caffeine / ∞
         .8888.'     :'     `'::`88:88888
        .8888        '         `.888:8888.
       888:8         .           888:88888
