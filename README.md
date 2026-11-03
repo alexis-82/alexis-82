@@ -47,9 +47,6 @@
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=alexis-82&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="stats" />
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=alexis-82&layout=compact&langs_count=5&hide=glsl,yacc,lex,c,lua&hide_border=true&theme=tokyonight" alt="top langs" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alexis-82&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
 
 ## 📡 `ip addr show`
 
